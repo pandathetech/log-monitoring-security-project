@@ -206,14 +206,14 @@ Using the `sudo fail2ban-client status sshd` command, I can check the number of 
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20153047.png)
 
-After two failed SSH connection attempts to Ubuntu01 from Ubuntu02, my Host02 IP address got banned on the third attempt.
+After two failed SSH connection attempts to Ubuntu01 from Ubuntu02, my Ubuntu02 IP address got banned on the third attempt.
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20153240.png)
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20153309.png)
 
 ### 4.4. Display Active Firewall Rules
-I displayed the active firewall rules on Linux01 using the `sudo iptables -L` command.
+I displayed the active firewall rules on Ubuntu01 using the `sudo iptables -L` command.
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20153424.png)
 
