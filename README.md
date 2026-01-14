@@ -98,7 +98,7 @@ To prove that my SSH server was working correctly, I attempted to connect to Ubu
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20150306.png)
 
 ### 3.1. Monitoring SSH Connections with Wireshark
-On my Ubuntu01 VM, I installed Wireshark. This software is used to monitored network trafic, such as SSH packets.
+On my Ubuntu01 VM, I installed Wireshark. This software is used to monitor network traffic, such as SSH packets.
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20141346.png)
 
