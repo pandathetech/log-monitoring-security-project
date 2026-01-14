@@ -1,4 +1,4 @@
-# Network Logging
+# Log Monitoring Security Project
 This project is inspired by my project in my CR350E course at Polytechnique Montréal, where I used network logging tools, such as Syslog, Wireshark and Fail2Ban, to develop my understanding in network logging.
 
 ---
