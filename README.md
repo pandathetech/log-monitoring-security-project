@@ -170,7 +170,9 @@ After restarting the Rsyslog service on my Ubuntu01, I accessed my Apache web pa
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20152353.png)
 
-To find my Ubuntu02 IP address from my Syslog logs (found in /var/log/syslog), I used the grep "192.168.10.12" /var/log/syslog command (192.168.10.12 is my Ubuntu02 IP address).
+To find my Ubuntu02 IP address from my Syslog logs (found in /var/log/syslog), I used the `grep "192.168.10.12" /var/log/syslog` command.
+
+> 192.168.10.12 is my Ubuntu02 IP address.
 
 ![](https://github.com/pandathetech/NetworkLogging/blob/main/Assets/Screenshot%202025-12-31%20152452.png)
 
